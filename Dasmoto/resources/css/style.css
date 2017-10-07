@@ -12,29 +12,23 @@ h1 {
   color: khaki;
   text-align: center;
 }
-.lead1{
-  color:white;
+
+.lead{
+  color: white;
   font-size: 32px;
   font-weight: bold;
+}
+
+#lead1_backColor{
   background-color: mediumspringgreen;
-
 }
 
-.lead2{
-  color:white;
-  font-size: 32px;
-  font-weight: bold;
+#lead2_backColor{
   background-color: lightcoral;
-
-
 }
 
-.lead3{
-  color:white;
-  font-size: 32px;
-  font-weight: bold;
+#lead3_backColor{
   background-color: skyblue;
-
 }
 /*
 
